@@ -6,8 +6,8 @@ export component Image {
     sizes: ?string
     alt: ?string
     title: ?string
-    width: ?number
-    height: ?number
+    width: ?integer
+    height: ?integer
     format: ?string
     class: ?string
     loading: ?string
